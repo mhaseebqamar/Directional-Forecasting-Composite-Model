@@ -33,10 +33,3 @@ The model was tested against a "Buy & Hold" baseline. While the full-period data
 | **TEST (Out-of-Sample)** | **6** | **4** | **+56.8 pp** |
 
 **Key Finding:** In the out-of-sample period, the model outperformed the baseline by an average of **56.8 percentage points**, hitting the 70% accuracy threshold on 4 out of 6 valid horizons.
-
----
-
-## 📂 Project Deliverables
-* **`Nvidia Case study.ipynb`**: Core research environment containing feature engineering, signal logic, and backtesting.
-* **Multi-Sheet Diagnostic Report**: An automated reporting framework that generates 13 sheets of granular performance metrics (Accuracy, Edge, and Baseline comparisons) across all horizons.
-* **Visualizations:** Equity curves and signal distribution heatmaps.
